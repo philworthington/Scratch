@@ -5,7 +5,7 @@
 
 -->
 
-By [Phil Worthington](https://github.com/philworthington).
+By [Phil Worthington](https://github.com/philworthington)
 
 
 ## Description
