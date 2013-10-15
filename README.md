@@ -17,14 +17,6 @@ By [Phil Worthington](https://github.com/philworthington)
 This repo can be used as a guide to set up a custom authentication system.
 
 
-## Configuration
-
-This block of text should explain how to configure your application:
-
-`rails generate my_example_gem:install`
-
-
-
 ## Authors
 
 * Phil Worthington (https://github.com/philworthington)
